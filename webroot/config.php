@@ -1,8 +1,8 @@
 <?php
 /* Database credentials. Assuming you are running MySQL*/
-define('DB_SERVER', 'database-1.csg4rlfrt84b.us-east-1.rds.amazonaws.com');
-define('DB_USERNAME', 'admin');
-define('DB_PASSWORD', 'Lizard13245%');
+define('DB_SERVER', '');
+define('DB_USERNAME', '');
+define('DB_PASSWORD', '');
 define('DB_NAME', 'nodemysql');
 
 /* Attempt to connect to MySQL database */
