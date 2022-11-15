@@ -14,7 +14,7 @@ You can view all the source code in the
 
 Or you can view a live demo using the following link:
 
->[spencerverse.net/login.php](spencerverse.net/login.php)
+>[spencerverse.net/login.php](http://spencerverse.net/login.php)
 
 Here are some premade accounts for you to look at
 <br></br>
