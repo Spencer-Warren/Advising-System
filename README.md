@@ -21,7 +21,7 @@ Here are some premade accounts for you to look at
 Student:  
 >Spencer Warren  
 00981583  
-FAThead42  
+Password4 
 
 Chair:  
 >Christopher Krieder  
